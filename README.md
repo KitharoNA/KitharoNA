@@ -9,10 +9,9 @@
 - 🎓 Pós Graduação em Inteligencia Artificial
 - 📚 Em constante evolução, sempre buscando aprender mais sobre novas tecnologias e boas práticas de desenvolvimento
 
-    <h2>🛠️ Tecnologias que eu uso:</h2>
-    <ul>
-        <li><strong>Frontend:</strong> React, Vue.js, Next.js, TailwindCSS</li>
-        <li><strong>Backend:</strong> Node.js, Express, MongoDB, PostgreSQL, MySQL</li>
-        <li><strong>Ferramentas:</strong> Git, Docker, Webpack, Jest</li>
-        <li><strong>Outras:</strong> GitHub Actions, Firebase, GraphQL</li>
-    </ul>
+## 🛠️ Tecnologias que eu uso
+
+- Frontend:React, Vue.js, Next.js, TailwindCSS, HTML, CSS, JavaScript, TypeScript
+- Backend: Java, Angular, Node.js, Express, Python, MongoDB, PostgreSQL, MySQL
+- Ferramentas:Git, Docker
+
